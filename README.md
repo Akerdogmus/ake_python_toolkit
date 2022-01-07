@@ -1,4 +1,5 @@
 # AKE's Python Toolkit
+[![CodeFactor](https://www.codefactor.io/repository/github/akerdogmus/ake_python_toolkit/badge)](https://www.codefactor.io/repository/github/akerdogmus/ake_python_toolkit)
 
 This repo is where the simple Python codes I used are collected.
 
