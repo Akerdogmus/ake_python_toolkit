@@ -1,4 +1,7 @@
-"""This is basic password generator."""
+"""
+This is basic password generator.
+Author: @akerdogmus
+"""
 
 import sys
 import random
