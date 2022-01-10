@@ -15,5 +15,5 @@ Some Links:
 - This script can be used for renaming files in folder: 
 ![File Renamer](https://github.com/Akerdogmus/file_renamer)
 
-- This script can be used for safely creating QR Code with custom strings (websites, email adress etc.)
+- This script can be used for safely creating QR Code with custom strings (websites, email adress etc.):
 ![QR Code Generator](https://github.com/Akerdogmus/qrcode_generator)
