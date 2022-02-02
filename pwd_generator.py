@@ -17,6 +17,7 @@ def main():
     if try_decision == "y":
         main()
     else:
+        print("Have a good day!")
         sys.exit()
 
 def pwd_generator(length):
