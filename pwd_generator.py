@@ -7,6 +7,7 @@ import sys
 import random
 import string
 
+
 def main():
     """Main Func"""
     print("This is Password Generator.")
@@ -19,6 +20,7 @@ def main():
     else:
         print("Have a good day!")
         sys.exit()
+
 
 def pwd_generator(length):
     """Password Generator Function"""
@@ -34,5 +36,6 @@ def pwd_generator(length):
     pwd = "".join(temp)
 
     return pwd
+
 
 main()
