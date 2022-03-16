@@ -18,3 +18,6 @@ Some Links:
 
 - This script can be used for safely creating QR Code with custom strings (websites, email adress etc.):
 ![QR Code Generator](https://github.com/Akerdogmus/qrcode_generator)
+
+- This script allows to extract and save histogram plots of all images in a (gray) image library.
+![Histogram Creator from Images](https://github.com/Akerdogmus/histogram_creator_from_images)
