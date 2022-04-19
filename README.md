@@ -23,4 +23,7 @@ Some Links:
 ![Histogram Creator from Images](https://github.com/Akerdogmus/histogram_creator_from_images)
 
 - This script solves the problem that when copy-pasting from pdf files, texts come in line by line as new lines. Makes text copied from pdf to be on a single line:
-![Fill the New Lines](https://github.com/Akerdogmus/Fill-The-New-Lines)  
+![Fill the New Lines](https://github.com/Akerdogmus/Fill-The-New-Lines)
+
+- This script allows to edit a text copied from pdf (copied to a .txt file) with the FillTheNewLines class and translate it into Turkish:
+![Quick Translator](https://github.com/Akerdogmus/quick_translate)
